@@ -17,7 +17,7 @@ With the web app up and running we can now search for information about UFO sigh
 
 The five criteria for filtering this table are: date, city, state, country, and shape. Users can use any combination of the filters. They can use just one filter at a time for a more general seach or up to all five filters at once for more specific results. 
 
-Filtering just by state can help determine which states have more UFO activity. After filtering the state to Florida we see that there are only ten UFO sightings in this dataset. 
+Filtering just by state can help determine which states have more UFO activity. After filtering the state to Florida we see that there are ten UFO sightings in this dataset. 
 
 ![Screen Shot 2022-12-22 at 4 52 49 PM](https://user-images.githubusercontent.com/111299372/209232438-dadf5ff8-2943-4c98-958b-09c21d813539.png)
 
