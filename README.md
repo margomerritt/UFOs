@@ -28,3 +28,5 @@ While Arkansas only has three sightings in this dataset.
 Knowing which states have more documented UFO sightings can help fans and researchers determine how likely it is that there will be another sighting in that specific state. 
 
 ## Summary
+
+One drawback of this table design is that the duration column is inconsistent across the whole dataset. The majority of entries in the duration column have a specific time duration (i.e. hours, minutes, and/or seconds). There are a few unknown duration entries. One outlier for the duration column is "night" in the 1/12/2010 Alma Arkansas entry. A fix for this will be to split the duration column into two separate columns. One can be called time elapsed in hr:min:sec format and the second column can be called time of day (day time or night time). The time of day information can be gathered from comments from some of the entries. For example the sighting on 1/9/2010 in Paducha Kentucky indicates in the comments that the UFO was seen in the night sky. If the time of day or the elapsed time information cannot be obtained from the current data then "unknown" can be added to that entry field.
